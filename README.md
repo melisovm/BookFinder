@@ -8,7 +8,7 @@ Minimum Functions, but I think it's enough to demonstrate how to work with API.
 
 ## Project for Mobile Application Course
 
-Done by: Marsel Melisov <marsel.melisov@iaau.edu.kg>
+Done by: Marsel Melisov <marsel.melisov@iaau.edu.kg><br>
 Controlled by: Aleksey Bondarev
 
 ## Contains
